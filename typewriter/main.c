@@ -10,7 +10,7 @@ size_t i = 0;
 int main(void)
 {
     clrscr();
-    bgcolor(COLOR_BLACK);
+    //bgcolor(COLOR_BLACK);
     text_len = strlen(text);
 
 /*
