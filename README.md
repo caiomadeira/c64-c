@@ -50,6 +50,55 @@ cl65 nome_do_arquivo.c -o nome_do_arquivo.c.prg
 
 Você pode usar um emulador (como o Retroarch com o núcleo do C64 Vice) para rodar o arquivo ```.prg```
 
+## Gerando cc65 assembly language file
+Gerar um arquivo assembly a partir do código em C ajuda a entender como converte-lo. O codigo original em C permanece comentado junto com o em assembly.
+
+```
+cl65 -S -T nome_do_arquivo.c -o nome_do_arquivo.prg
+```
+
+## Lista de plataformas suportadas pelo cc65
+
+```
+cl65 --list-targets
+```
+
+```
+
+atari
+atari2600
+atari5200
+atarixl
+vic20
+c16
+c64
+c128
+plus4
+cbm510
+cbm610
+osic1p
+pet
+bbc
+apple2
+apple2enh
+geos-cbm
+creativision
+geos-apple
+lunix
+atmos
+telestrat
+nes
+supervision
+lynx
+sim6502
+sim65c02
+pce
+gamate
+c65
+cx16
+```
+
+
 ### Autor
 
 - **[Caio Madeira](https://caiomaidera.dev)**
