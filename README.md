@@ -1,12 +1,16 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Commodore_64_logo.png" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Commodore_64_logo.png" width="400"></a></p>
 
 <p align="center">
 <a href="https://www.retroarch.com">Download Retroarch</a>
 </p>
 
-## Exemplos
+## Screenshots
 
-<p align="center"><img src="" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><img src="https://raw.githubusercontent.com/caiomadeira/c64-c/main/assets/main-240213-144418.png" width="400" alt="Laravel Logo"></a></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/caiomadeira/c64-c/main/assets/main.c-240213-144341.png" width="400" alt="Laravel Logo"></a></p>
+
+<p align="center"><img src="https://raw.githubusercontent.com/caiomadeira/c64-c/main/assets/main.c-240213-144553.png" width="400" alt="Laravel Logo"></a></p>
 
 ## Sobre c64-C
 
